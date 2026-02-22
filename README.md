@@ -25,7 +25,7 @@ The dataset comes from [Luke Barousse's Python Course](https://lukebarousse.com/
 
 # Analysis
 
-Each Jupyter Notebook in this project explores specific aspects of the UK data job market. You can review their contents and code in the project folder.
+Each Jupyter Notebook in this project explores specific aspects of the UK data job market. You can review their contents and code in the [project folder](python_files).
 
 ## Skill Demand
 
